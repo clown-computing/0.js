@@ -1,0 +1,23 @@
+{
+  "name": "0.js",
+  "version": "0.0.0",
+  "description": "constant 0",
+  "main": "0.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clown-computing/0.js.git"
+  },
+  "keywords": [
+    "0",
+    "constant"
+  ],
+  "author": "clown-cto (CTO of clown-computing)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/clown-computing/0.js/issues"
+  },
+  "homepage": "https://github.com/clown-computing/0.js#readme"
+}
